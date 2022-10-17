@@ -5,10 +5,6 @@
   padding: 0;
 }
 
-body {
-  background-color: rgb(117, 182, 91);
-}
-
 .header {
   position: relative;
   background-color: rgb(14, 107, 93);
@@ -103,7 +99,7 @@ body {
   margin: 5px;
   width: 200px;
   border: 2px solid rgba(90, 90, 90, 0.459);
-  background-color: rgba(89, 153, 103, 0.596);
+  background-color: rgba(123, 206, 141, 0.596);
   border-radius: 5px;
   box-sizing: border-box;
 }
@@ -139,7 +135,7 @@ body {
   justify-content: center;
   align-items: center;
   flex-flow: column wrap;
-  background-color: rgba(241, 241, 238, 0.473);
+  background-color: rgba(123, 206, 141, 0.596);
   height: 100vh;
 }
 
@@ -154,7 +150,7 @@ body {
 
 .cart__item {
   border: 3px solid rgb(15, 102, 54);
-  border-radius: 10px;
+  /* border-radius: 10px; */
   background-color: aliceblue;
   padding: 10px;
   margin-top: 10px;
